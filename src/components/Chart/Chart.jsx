@@ -31,12 +31,6 @@ export default function Chart() {
               hoverBackgroundColor: "rgba(255, 0, 0, 0.5)",
               fill: true,
             },
-            {
-              data: dailyData.map(({ recovered }) => recovered),
-              label: "Recovered",
-              borderColor: "green",
-              fill: true,
-            },
           ],
         }}
       />
