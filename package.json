@@ -1,5 +1,6 @@
 {
   "name": "corona-tracker",
+  "homepage": "https://Niranjan420.github.io/corona-tracker",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
